@@ -1,0 +1,17 @@
+{
+  "name": "angular2-template",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sam Kirsch <samdkirsch2@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
